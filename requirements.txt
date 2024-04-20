@@ -1,0 +1,13 @@
+fastapi
+jinja2
+aiofiles
+python-multipart 
+python-dotenv
+requests
+replicate
+uvicorn
+openai
+Python (>=3.7)
+FastAPI
+Transformers
+PyTorch
